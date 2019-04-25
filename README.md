@@ -4,6 +4,7 @@ SQLAlchemy differently: https://stackoverflow.com/questions/10572498/importerror
 pip install pymysql
 pip install Flask-SQLAlchemy
 pip install flask_sqlalchemy
+pip install flask_wtf
 
 ### Deploying a Flask application in AWS: An end-to-end tutorial
 
