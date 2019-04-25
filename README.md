@@ -1,3 +1,10 @@
+More libraries to be installed:
+
+SQLAlchemy differently: https://stackoverflow.com/questions/10572498/importerror-no-module-named-sqlalchemy
+pip install pymysql
+pip install Flask-SQLAlchemy
+pip install flask_sqlalchemy
+
 ### Deploying a Flask application in AWS: An end-to-end tutorial
 
 This is the code that goes along with the detailed writeup here:
